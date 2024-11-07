@@ -1,0 +1,809 @@
+Province,N_region,N_group_prod veget,N_productions vegetales,Animaux,Ceremonie,Conso,Dons_reguliers,Perdue,Semences,Total
+Province Nord,Nord Ouest,Arbre fruitier,Autres fruits (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Avocat,0,0,5,3,3,0,11
+Province Nord,Nord Ouest,Arbre fruitier,Carambole,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Cerisier,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Citron et lime,0,3,11,6,7,0,27
+Province Nord,Nord Ouest,Arbre fruitier,Corossol,0,0,2,1,1,0,4
+Province Nord,Nord Ouest,Arbre fruitier,Cœur de bœuf,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Goyave,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Jacques,0,0,2,2,1,0,5
+Province Nord,Nord Ouest,Arbre fruitier,Jamelonier,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Kaki,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Litchi,0,0,7,2,3,0,12
+Province Nord,Nord Ouest,Arbre fruitier,Mandarine,0,1,23,15,13,0,52
+Province Nord,Nord Ouest,Arbre fruitier,Mangue,2,1,40,22,47,1,113
+Province Nord,Nord Ouest,Arbre fruitier,Murier,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Orange,0,0,18,18,10,0,46
+Province Nord,Nord Ouest,Arbre fruitier,Pamplemousse,0,0,5,5,10,0,20
+Province Nord,Nord Ouest,Arbre fruitier,Papaye,0,0,9,5,7,0,21
+Province Nord,Nord Ouest,Arbre fruitier,Pomme cannelle,0,0,1,0,0,0,1
+Province Nord,Nord Ouest,Arbre fruitier,Pomme citerne,0,0,2,1,1,0,4
+Province Nord,Nord Ouest,Arbre fruitier,Pomme kanak,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Pomme rose,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Arbre fruitier,Pêche,0,0,1,0,1,0,2
+Province Nord,Nord Ouest,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Banane dessert,Banane dessert,4,100,131,59,61,0,355
+Province Nord,Nord Ouest,Banane poingo,Banane poingo,0,57,48,17,10,1,133
+Province Nord,Nord Ouest,Cocotier,Cocotier,7,10,32,9,18,2,78
+Province Nord,Nord Ouest,Cultures spéciales,Café arabica,0,0,1,0,0,0,1
+Province Nord,Nord Ouest,Cultures spéciales,Café robusta,0,1,0,0,0,0,1
+Province Nord,Nord Ouest,Cultures spéciales,Canne à sucre,0,9,27,8,12,0,56
+Province Nord,Nord Ouest,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Cultures spéciales,Vanille,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Ambrevade,0,0,2,0,0,0,2
+Province Nord,Nord Ouest,Légume & fruit plein champ,Ananas,0,0,11,6,2,0,19
+Province Nord,Nord Ouest,Légume & fruit plein champ,Autre légume de plein champ (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Autres légumes (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Brèdes,0,0,2,2,0,0,4
+Province Nord,Nord Ouest,Légume & fruit plein champ,Carotte,0,0,2,1,0,0,3
+Province Nord,Nord Ouest,Légume & fruit plein champ,Chou de chine,0,0,2,1,0,0,3
+Province Nord,Nord Ouest,Légume & fruit plein champ,Chou kanak,0,1,6,3,1,0,11
+Province Nord,Nord Ouest,Légume & fruit plein champ,Chou rouge,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Chou vert,0,0,2,0,0,0,2
+Province Nord,Nord Ouest,Légume & fruit plein champ,Chouchoute,0,0,10,10,2,0,22
+Province Nord,Nord Ouest,Légume & fruit plein champ,Citrouille,0,4,9,3,2,0,18
+Province Nord,Nord Ouest,Légume & fruit plein champ,Concombre,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Courgette,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Céleri,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Fines herbes,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Fraise,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Haricot toutes sortes,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Haricot vert,0,1,5,3,1,0,10
+Province Nord,Nord Ouest,Légume & fruit plein champ,Maïs doux,0,0,1,0,0,0,1
+Province Nord,Nord Ouest,Légume & fruit plein champ,Oignon sec,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Oignon vert,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Pastèque,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Persil,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Poireau,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Poivron,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Pomme de terre,0,0,1,1,0,0,2
+Province Nord,Nord Ouest,Légume & fruit plein champ,Pomme liane,0,0,2,1,1,0,4
+Province Nord,Nord Ouest,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Salade,0,3,6,5,1,0,15
+Province Nord,Nord Ouest,Légume & fruit plein champ,Squash,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Légume & fruit plein champ,Tomate,0,0,4,1,1,0,6
+Province Nord,Nord Ouest,Légume & fruit plein champ,Tomate cerise,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Pépinière et ornement,Pépinière de plein champ,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Tubercule,Autre tubercule tropical (à préciser),0,0,0,1,0,0,1
+Province Nord,Nord Ouest,Tubercule,Igname de saison,0,95,86,23,14,72,290
+Province Nord,Nord Ouest,Tubercule,Manioc,1,46,79,38,10,3,177
+Province Nord,Nord Ouest,Tubercule,Patate douce,0,1,10,3,1,0,15
+Province Nord,Nord Ouest,Tubercule,Taro bourbon,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Tubercule,Taro d'eau,0,13,11,5,5,5,39
+Province Nord,Nord Ouest,Tubercule,Taro de montagne,0,4,16,7,3,5,35
+Province Nord,Grand Nord,Arbre fruitier,Autres fruits (à préciser),0,0,3,0,1,0,4
+Province Nord,Grand Nord,Arbre fruitier,Avocat,1,0,10,6,5,0,22
+Province Nord,Grand Nord,Arbre fruitier,Carambole,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Arbre fruitier,Citron et lime,0,2,23,15,19,0,59
+Province Nord,Grand Nord,Arbre fruitier,Corossol,1,0,7,2,3,0,13
+Province Nord,Grand Nord,Arbre fruitier,Cœur de bœuf,0,0,1,0,1,0,2
+Province Nord,Grand Nord,Arbre fruitier,Fruit à pain,0,0,1,1,0,0,2
+Province Nord,Grand Nord,Arbre fruitier,Goyave,0,0,1,0,0,0,1
+Province Nord,Grand Nord,Arbre fruitier,Jacques,0,0,9,4,4,0,17
+Province Nord,Grand Nord,Arbre fruitier,Jamelonier,0,0,0,0,1,0,1
+Province Nord,Grand Nord,Arbre fruitier,Kaki,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Arbre fruitier,Litchi,0,0,3,0,1,0,4
+Province Nord,Grand Nord,Arbre fruitier,Mandarine,0,2,32,29,17,0,80
+Province Nord,Grand Nord,Arbre fruitier,Mangue,39,1,67,48,95,0,250
+Province Nord,Grand Nord,Arbre fruitier,Murier,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Arbre fruitier,Orange,0,2,34,25,9,0,70
+Province Nord,Grand Nord,Arbre fruitier,Pamplemousse,0,0,8,5,8,0,21
+Province Nord,Grand Nord,Arbre fruitier,Papaye,2,5,35,13,19,0,74
+Province Nord,Grand Nord,Arbre fruitier,Pomme cannelle,0,0,3,1,2,0,6
+Province Nord,Grand Nord,Arbre fruitier,Pomme citerne,0,0,4,4,7,0,15
+Province Nord,Grand Nord,Arbre fruitier,Pomme kanak,0,0,1,0,1,0,2
+Province Nord,Grand Nord,Arbre fruitier,Pêche,0,0,1,0,0,0,1
+Province Nord,Grand Nord,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Autre,Autre produit végétal (à préciser),0,0,0,0,0,0,0
+Province Nord,Grand Nord,Banane dessert,Banane dessert,12,190,436,208,258,0,1104
+Province Nord,Grand Nord,Banane poingo,Banane poingo,10,100,126,80,46,0,362
+Province Nord,Grand Nord,Cocotier,Cocotier,123,85,108,58,296,2,672
+Province Nord,Grand Nord,Cultures spéciales,Café arabica,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Cultures spéciales,Canne à sucre,2,17,35,22,9,1,86
+Province Nord,Grand Nord,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Cultures spéciales,Condiment et épices divers,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Cultures spéciales,Vanille,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Ambrevade,0,0,3,3,0,0,6
+Province Nord,Grand Nord,Légume & fruit plein champ,Ananas,0,8,33,24,16,0,81
+Province Nord,Grand Nord,Légume & fruit plein champ,Brèdes,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Carotte,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Chou de chine,0,0,5,4,1,0,10
+Province Nord,Grand Nord,Légume & fruit plein champ,Chou kanak,0,8,22,5,7,0,42
+Province Nord,Grand Nord,Légume & fruit plein champ,Chou vert,0,0,6,3,0,0,9
+Province Nord,Grand Nord,Légume & fruit plein champ,Chouchoute,1,6,30,16,12,3,68
+Province Nord,Grand Nord,Légume & fruit plein champ,Citrouille,6,4,10,9,8,0,37
+Province Nord,Grand Nord,Légume & fruit plein champ,Concombre,0,1,3,2,4,0,10
+Province Nord,Grand Nord,Légume & fruit plein champ,Courgette,0,0,1,1,0,0,2
+Province Nord,Grand Nord,Légume & fruit plein champ,Céleri,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Fines herbes,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Haricot toutes sortes,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Haricot vert,0,0,5,2,0,0,7
+Province Nord,Grand Nord,Légume & fruit plein champ,Maïs doux,0,0,6,1,0,0,7
+Province Nord,Grand Nord,Légume & fruit plein champ,Oignon vert,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Pastèque,0,0,5,2,1,0,8
+Province Nord,Grand Nord,Légume & fruit plein champ,Persil,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Poireau,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Poivron,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Pomme de terre,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Pomme liane,0,0,2,1,1,0,4
+Province Nord,Grand Nord,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Légume & fruit plein champ,Salade,0,0,3,1,1,0,5
+Province Nord,Grand Nord,Légume & fruit plein champ,Tomate,0,2,9,5,2,0,18
+Province Nord,Grand Nord,Tubercule,Autre tubercule tropical (à préciser),0,1,0,0,0,1,2
+Province Nord,Grand Nord,Tubercule,Igname de saison,0,189,185,111,39,190,714
+Province Nord,Grand Nord,Tubercule,Manioc,4,76,197,66,69,3,415
+Province Nord,Grand Nord,Tubercule,Patate douce,0,5,23,11,4,0,43
+Province Nord,Grand Nord,Tubercule,Taro bourbon,0,0,2,1,0,0,3
+Province Nord,Grand Nord,Tubercule,Taro d'eau,0,30,40,12,8,7,97
+Province Nord,Grand Nord,Tubercule,Taro de montagne,0,13,56,22,5,7,103
+Province Nord,Nord Est,Arbre fruitier,Autres fruits (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Est,Arbre fruitier,Avocat,0,0,11,9,5,0,25
+Province Nord,Nord Est,Arbre fruitier,Carambole,0,0,0,0,0,0,0
+Province Nord,Nord Est,Arbre fruitier,Cerisier,0,0,0,0,0,0,0
+Province Nord,Nord Est,Arbre fruitier,Citron et lime,0,4,27,15,21,0,67
+Province Nord,Nord Est,Arbre fruitier,Combava,0,0,0,0,0,0,0
+Province Nord,Nord Est,Arbre fruitier,Corossol,0,0,13,6,5,0,24
+Province Nord,Nord Est,Arbre fruitier,Cœur de bœuf,0,0,1,1,0,0,2
+Province Nord,Nord Est,Arbre fruitier,Fruit à pain,0,0,0,0,0,0,0
+Province Nord,Nord Est,Arbre fruitier,Goyave,0,0,1,1,2,0,4
+Province Nord,Nord Est,Arbre fruitier,Jacques,0,0,13,6,8,0,27
+Province Nord,Nord Est,Arbre fruitier,Jamelonier,0,0,0,0,0,0,0
+Province Nord,Nord Est,Arbre fruitier,Kaki,0,0,1,0,0,0,1
+Province Nord,Nord Est,Arbre fruitier,Litchi,0,0,63,19,13,0,95
+Province Nord,Nord Est,Arbre fruitier,Mandarine,0,0,37,11,7,0,55
+Province Nord,Nord Est,Arbre fruitier,Mangue,30,2,51,37,46,0,166
+Province Nord,Nord Est,Arbre fruitier,Murier,0,0,0,0,0,0,0
+Province Nord,Nord Est,Arbre fruitier,Orange,0,0,26,9,15,0,50
+Province Nord,Nord Est,Arbre fruitier,Pamplemousse,0,0,9,6,7,0,22
+Province Nord,Nord Est,Arbre fruitier,Papaye,1,0,17,7,18,0,43
+Province Nord,Nord Est,Arbre fruitier,Pomme cannelle,0,0,1,0,0,0,1
+Province Nord,Nord Est,Arbre fruitier,Pomme citerne,1,0,5,3,7,0,16
+Province Nord,Nord Est,Arbre fruitier,Pomme kanak,1,0,3,2,4,0,10
+Province Nord,Nord Est,Arbre fruitier,Pomme rose,0,0,0,0,0,0,0
+Province Nord,Nord Est,Arbre fruitier,Pêche,0,0,1,1,0,0,2
+Province Nord,Nord Est,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province Nord,Nord Est,Banane dessert,Banane dessert,4,250,381,184,121,0,940
+Province Nord,Nord Est,Banane poingo,Banane poingo,2,68,85,35,20,0,210
+Province Nord,Nord Est,Cocotier,Cocotier,296,29,206,111,114,1,757
+Province Nord,Nord Est,Cultures spéciales,Autre culture spéciale (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Est,Cultures spéciales,Café arabica,0,0,0,0,0,0,0
+Province Nord,Nord Est,Cultures spéciales,Café robusta,0,0,1,0,2,0,3
+Province Nord,Nord Est,Cultures spéciales,Canne à sucre,1,17,73,34,9,0,134
+Province Nord,Nord Est,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province Nord,Nord Est,Cultures spéciales,Vanille,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Ambrevade,0,0,7,4,1,0,12
+Province Nord,Nord Est,Légume & fruit plein champ,Ananas,0,6,26,34,16,0,82
+Province Nord,Nord Est,Légume & fruit plein champ,Aubergine,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Autres légumes (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Brèdes,0,0,1,0,0,0,1
+Province Nord,Nord Est,Légume & fruit plein champ,Carotte,0,0,1,0,0,0,1
+Province Nord,Nord Est,Légume & fruit plein champ,Chou de chine,0,0,2,1,0,0,3
+Province Nord,Nord Est,Légume & fruit plein champ,Chou kanak,0,2,22,5,1,0,30
+Province Nord,Nord Est,Légume & fruit plein champ,Chou rouge,0,0,1,0,0,0,1
+Province Nord,Nord Est,Légume & fruit plein champ,Chou vert,0,0,1,0,0,0,1
+Province Nord,Nord Est,Légume & fruit plein champ,Chouchoute,4,5,29,18,23,1,80
+Province Nord,Nord Est,Légume & fruit plein champ,Citrouille,0,4,14,7,6,0,31
+Province Nord,Nord Est,Légume & fruit plein champ,Concombre,0,0,2,2,0,0,4
+Province Nord,Nord Est,Légume & fruit plein champ,Courgette,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Céleri,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Fines herbes,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Fraise,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Framboisier,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Haricot toutes sortes,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Haricot vert,0,0,2,1,0,0,3
+Province Nord,Nord Est,Légume & fruit plein champ,Maïs doux,0,0,2,1,0,0,3
+Province Nord,Nord Est,Légume & fruit plein champ,Melon,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Navet,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Oignon vert,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Pastèque,0,0,1,0,0,0,1
+Province Nord,Nord Est,Légume & fruit plein champ,Persil,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Poireau,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Poivron,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Pomme de terre,0,0,2,1,0,0,3
+Province Nord,Nord Est,Légume & fruit plein champ,Pomme liane,0,0,3,2,3,0,8
+Province Nord,Nord Est,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province Nord,Nord Est,Légume & fruit plein champ,Salade,0,1,4,1,0,0,6
+Province Nord,Nord Est,Légume & fruit plein champ,Tomate,0,1,6,3,1,0,11
+Province Nord,Nord Est,Pépinière et ornement,Arbres d'ornement,0,0,0,0,0,0,0
+Province Nord,Nord Est,Pépinière et ornement,Pépinière de plein champ,0,0,0,0,0,0,0
+Province Nord,Nord Est,Tubercule,Autre tubercule tropical (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Est,Tubercule,Igname de saison,0,313,287,93,56,219,968
+Province Nord,Nord Est,Tubercule,Manioc,1,180,297,106,50,4,638
+Province Nord,Nord Est,Tubercule,Patate douce,0,11,18,6,7,1,43
+Province Nord,Nord Est,Tubercule,Taro bourbon,0,0,2,1,1,1,5
+Province Nord,Nord Est,Tubercule,Taro d'eau,0,61,68,19,6,8,162
+Province Nord,Nord Est,Tubercule,Taro de montagne,0,15,31,9,5,2,62
+Province Nord,Nord Minier,Arbre fruitier,Autres fruits (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Minier,Arbre fruitier,Avocat,0,0,13,4,5,0,22
+Province Nord,Nord Minier,Arbre fruitier,Carambole,3,0,0,0,0,0,3
+Province Nord,Nord Minier,Arbre fruitier,Cerisier,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Arbre fruitier,Citron et lime,0,0,16,9,9,0,34
+Province Nord,Nord Minier,Arbre fruitier,Combava,0,3,0,0,2,0,5
+Province Nord,Nord Minier,Arbre fruitier,Corossol,2,0,7,2,6,0,17
+Province Nord,Nord Minier,Arbre fruitier,Cœur de bœuf,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Arbre fruitier,Fruit à pain,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Arbre fruitier,Goyave,1,0,2,0,2,0,5
+Province Nord,Nord Minier,Arbre fruitier,Jacques,0,1,13,4,10,0,28
+Province Nord,Nord Minier,Arbre fruitier,Jamelonier,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Arbre fruitier,Kaki,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Arbre fruitier,Litchi,0,0,18,9,2,0,29
+Province Nord,Nord Minier,Arbre fruitier,Mandarine,0,0,29,14,10,0,53
+Province Nord,Nord Minier,Arbre fruitier,Mangue,50,1,55,28,79,1,214
+Province Nord,Nord Minier,Arbre fruitier,Murier,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Arbre fruitier,Orange,0,0,17,12,8,0,37
+Province Nord,Nord Minier,Arbre fruitier,Pamplemousse,0,0,9,6,10,0,25
+Province Nord,Nord Minier,Arbre fruitier,Papaye,3,0,25,8,10,0,46
+Province Nord,Nord Minier,Arbre fruitier,Pomme cannelle,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Arbre fruitier,Pomme citerne,1,0,4,3,2,0,10
+Province Nord,Nord Minier,Arbre fruitier,Pomme kanak,1,1,3,1,2,0,8
+Province Nord,Nord Minier,Arbre fruitier,Pomme rose,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Arbre fruitier,Pêche,0,0,1,0,1,0,2
+Province Nord,Nord Minier,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Autre,Autre produit végétal (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Minier,Banane dessert,Banane dessert,5,197,296,109,235,1,843
+Province Nord,Nord Minier,Banane poingo,Banane poingo,0,35,62,15,17,0,129
+Province Nord,Nord Minier,Cocotier,Cocotier,129,15,98,46,77,0,365
+Province Nord,Nord Minier,Cultures spéciales,Autre culture spéciale (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Minier,Cultures spéciales,Café arabica,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Cultures spéciales,Café robusta,0,0,1,0,0,0,1
+Province Nord,Nord Minier,Cultures spéciales,Canne à sucre,1,5,22,5,3,0,36
+Province Nord,Nord Minier,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Cultures spéciales,Vanille,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Ambrevade,0,0,2,0,1,0,3
+Province Nord,Nord Minier,Légume & fruit plein champ,Ananas,0,0,35,20,11,0,66
+Province Nord,Nord Minier,Légume & fruit plein champ,Aubergine,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Autres légumes (à préciser),0,0,1,0,1,0,2
+Province Nord,Nord Minier,Légume & fruit plein champ,Brèdes,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Carotte,0,0,1,0,0,0,1
+Province Nord,Nord Minier,Légume & fruit plein champ,Chou de chine,0,0,3,1,2,0,6
+Province Nord,Nord Minier,Légume & fruit plein champ,Chou kanak,0,3,14,3,1,0,21
+Province Nord,Nord Minier,Légume & fruit plein champ,Chou vert,0,2,5,0,0,0,7
+Province Nord,Nord Minier,Légume & fruit plein champ,Chouchoute,33,13,57,16,39,0,158
+Province Nord,Nord Minier,Légume & fruit plein champ,Citrouille,5,7,30,10,12,0,64
+Province Nord,Nord Minier,Légume & fruit plein champ,Concombre,0,2,2,2,0,0,6
+Province Nord,Nord Minier,Légume & fruit plein champ,Courgette,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Fines herbes,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Fraise,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Framboisier,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Haricot toutes sortes,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Haricot vert,0,1,4,1,0,0,6
+Province Nord,Nord Minier,Légume & fruit plein champ,Maïs doux,0,0,1,0,0,0,1
+Province Nord,Nord Minier,Légume & fruit plein champ,Melon,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Oignon sec,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Oignon vert,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Pastèque,0,4,1,4,0,1,10
+Province Nord,Nord Minier,Légume & fruit plein champ,Persil,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Poireau,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Poivron,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Pomme de terre,0,1,4,1,0,0,6
+Province Nord,Nord Minier,Légume & fruit plein champ,Pomme liane,0,0,7,1,3,0,11
+Province Nord,Nord Minier,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Légume & fruit plein champ,Salade,0,1,4,1,0,0,6
+Province Nord,Nord Minier,Légume & fruit plein champ,Tomate,0,1,7,3,2,0,13
+Province Nord,Nord Minier,Tubercule,Autre tubercule tropical (à préciser),0,0,0,0,0,0,0
+Province Nord,Nord Minier,Tubercule,Igname de saison,3,210,205,50,57,182,707
+Province Nord,Nord Minier,Tubercule,Manioc,10,79,114,33,31,7,274
+Province Nord,Nord Minier,Tubercule,Patate douce,0,5,13,2,1,0,21
+Province Nord,Nord Minier,Tubercule,Taro bourbon,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Tubercule,Taro d'eau,1,37,47,16,3,4,108
+Province Nord,Nord Minier,Tubercule,Taro de montagne,0,10,25,5,2,1,43
+Province Sud,Sud Ouest,Arbre fruitier,Autres fruits (à préciser),0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Avocat,0,0,6,3,1,0,10
+Province Sud,Sud Ouest,Arbre fruitier,Carambole,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Cerisier,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Citron et lime,0,2,9,3,4,0,18
+Province Sud,Sud Ouest,Arbre fruitier,Combava,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Corossol,0,0,1,0,1,0,2
+Province Sud,Sud Ouest,Arbre fruitier,Cœur de bœuf,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Fruit à pain,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Goyave,0,0,1,0,1,0,2
+Province Sud,Sud Ouest,Arbre fruitier,Jacques,0,1,4,0,2,0,7
+Province Sud,Sud Ouest,Arbre fruitier,Jamelonier,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Kaki,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Litchi,0,0,3,1,0,0,4
+Province Sud,Sud Ouest,Arbre fruitier,Mandarine,0,0,13,7,8,0,28
+Province Sud,Sud Ouest,Arbre fruitier,Mangue,12,1,19,12,23,0,67
+Province Sud,Sud Ouest,Arbre fruitier,Murier,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Orange,0,3,10,10,14,0,37
+Province Sud,Sud Ouest,Arbre fruitier,Pamplemousse,0,1,3,1,1,0,6
+Province Sud,Sud Ouest,Arbre fruitier,Papaye,36,1,11,3,5,0,56
+Province Sud,Sud Ouest,Arbre fruitier,Pomme cannelle,0,0,1,0,0,0,1
+Province Sud,Sud Ouest,Arbre fruitier,Pomme citerne,1,0,1,0,1,0,3
+Province Sud,Sud Ouest,Arbre fruitier,Pomme kanak,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Pomme rose,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Arbre fruitier,Pêche,0,0,2,1,0,0,3
+Province Sud,Sud Ouest,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Banane dessert,Banane dessert,1,34,63,21,21,0,140
+Province Sud,Sud Ouest,Banane poingo,Banane poingo,0,10,8,5,2,0,25
+Province Sud,Sud Ouest,Cocotier,Cocotier,22,2,19,7,3,0,53
+Province Sud,Sud Ouest,Cultures spéciales,Autre culture spéciale (à préciser),0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Cultures spéciales,Café arabica,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Cultures spéciales,Café robusta,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Cultures spéciales,Canne à sucre,0,1,5,0,1,0,7
+Province Sud,Sud Ouest,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Cultures spéciales,Vanille,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Ambrevade,0,0,4,2,0,0,6
+Province Sud,Sud Ouest,Légume & fruit plein champ,Ananas,0,0,11,5,2,0,18
+Province Sud,Sud Ouest,Légume & fruit plein champ,Aubergine,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Autres légumes (à préciser),0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Brèdes,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Carotte,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Chou de chine,0,0,1,0,0,0,1
+Province Sud,Sud Ouest,Légume & fruit plein champ,Chou kanak,0,2,9,2,0,0,13
+Province Sud,Sud Ouest,Légume & fruit plein champ,Chou vert,0,0,2,1,0,0,3
+Province Sud,Sud Ouest,Légume & fruit plein champ,Chouchoute,0,2,13,6,6,0,27
+Province Sud,Sud Ouest,Légume & fruit plein champ,Citrouille,0,1,6,2,1,0,10
+Province Sud,Sud Ouest,Légume & fruit plein champ,Concombre,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Céleri,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Echalote,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Fines herbes,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Fraise,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Framboisier,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Haricot toutes sortes,0,0,1,0,0,0,1
+Province Sud,Sud Ouest,Légume & fruit plein champ,Haricot vert,0,0,1,0,0,0,1
+Province Sud,Sud Ouest,Légume & fruit plein champ,Maïs doux,0,0,1,0,0,0,1
+Province Sud,Sud Ouest,Légume & fruit plein champ,Melon,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Navet,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Oignon vert,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Pastèque,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Persil,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Poireau,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Poivron,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Pomme de terre,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Pomme liane,0,0,2,1,2,0,5
+Province Sud,Sud Ouest,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Légume & fruit plein champ,Salade,0,0,1,0,0,0,1
+Province Sud,Sud Ouest,Légume & fruit plein champ,Tomate,0,0,2,0,0,0,2
+Province Sud,Sud Ouest,Légume & fruit plein champ,Tomate cerise,0,0,0,0,0,0,0
+Province Sud,Sud Ouest,Tubercule,Igname de saison,0,38,34,15,9,47,143
+Province Sud,Sud Ouest,Tubercule,Manioc,0,23,47,6,14,1,91
+Province Sud,Sud Ouest,Tubercule,Patate douce,0,0,5,1,1,0,7
+Province Sud,Sud Ouest,Tubercule,Taro bourbon,0,0,1,0,0,0,1
+Province Sud,Sud Ouest,Tubercule,Taro d'eau,0,3,5,2,1,1,12
+Province Sud,Sud Ouest,Tubercule,Taro de montagne,0,2,7,1,4,0,14
+Province Sud,Grand Nouméa,Arbre fruitier,Autres fruits (à préciser),0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Avocat,0,0,3,3,0,0,6
+Province Sud,Grand Nouméa,Arbre fruitier,Cerisier,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Citron et lime,0,0,6,4,1,0,11
+Province Sud,Grand Nouméa,Arbre fruitier,Corossol,0,0,1,0,1,0,2
+Province Sud,Grand Nouméa,Arbre fruitier,Cœur de bœuf,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Fruit à pain,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Goyave,0,0,1,0,0,0,1
+Province Sud,Grand Nouméa,Arbre fruitier,Jacques,0,0,2,0,0,0,2
+Province Sud,Grand Nouméa,Arbre fruitier,Jamelonier,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Kaki,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Litchi,0,0,6,1,1,0,8
+Province Sud,Grand Nouméa,Arbre fruitier,Mandarine,0,0,6,4,1,0,11
+Province Sud,Grand Nouméa,Arbre fruitier,Mangue,3,1,17,18,10,0,49
+Province Sud,Grand Nouméa,Arbre fruitier,Murier,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Orange,0,0,3,2,0,0,5
+Province Sud,Grand Nouméa,Arbre fruitier,Pamplemousse,0,0,2,3,2,0,7
+Province Sud,Grand Nouméa,Arbre fruitier,Papaye,1,0,6,1,1,0,9
+Province Sud,Grand Nouméa,Arbre fruitier,Pomme cannelle,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Pomme citerne,0,0,1,0,1,0,2
+Province Sud,Grand Nouméa,Arbre fruitier,Pomme kanak,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Pomme rose,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Arbre fruitier,Pêche,0,0,1,0,0,0,1
+Province Sud,Grand Nouméa,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Banane dessert,Banane dessert,0,2,17,5,1,0,25
+Province Sud,Grand Nouméa,Banane poingo,Banane poingo,0,0,1,0,0,0,1
+Province Sud,Grand Nouméa,Cocotier,Cocotier,19,2,11,8,3,0,43
+Province Sud,Grand Nouméa,Cultures spéciales,Café arabica,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Cultures spéciales,Canne à sucre,1,0,5,1,0,0,7
+Province Sud,Grand Nouméa,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Cultures spéciales,Vanille,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Ambrevade,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Ananas,0,0,3,0,0,0,3
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Aubergine,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Carotte,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Chou de chine,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Chou kanak,0,0,2,1,0,0,3
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Chou vert,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Chouchoute,0,0,2,0,0,0,2
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Citrouille,0,1,2,1,1,0,5
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Concombre,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Framboisier,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Haricot toutes sortes,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Haricot vert,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Maïs doux,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Navet,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Oignon vert,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Pastèque,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Persil,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Poireau,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Poivron,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Pomme de terre,0,0,1,0,0,0,1
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Pomme liane,0,0,1,0,0,0,1
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Salade,0,0,1,0,0,0,1
+Province Sud,Grand Nouméa,Légume & fruit plein champ,Tomate,0,0,1,1,0,0,2
+Province Sud,Grand Nouméa,Tubercule,Igname de saison,0,13,12,2,2,16,45
+Province Sud,Grand Nouméa,Tubercule,Manioc,0,2,19,6,3,0,30
+Province Sud,Grand Nouméa,Tubercule,Patate douce,0,0,3,1,0,0,4
+Province Sud,Grand Nouméa,Tubercule,Taro bourbon,0,0,0,0,0,0,0
+Province Sud,Grand Nouméa,Tubercule,Taro d'eau,0,1,3,1,1,0,6
+Province Sud,Grand Nouméa,Tubercule,Taro de montagne,0,0,1,1,0,0,2
+Province Sud,Sud Est,Arbre fruitier,Autres fruits (à préciser),0,0,0,0,0,0,0
+Province Sud,Sud Est,Arbre fruitier,Avocat,2,1,22,17,6,0,48
+Province Sud,Sud Est,Arbre fruitier,Carambole,0,0,0,0,0,0,0
+Province Sud,Sud Est,Arbre fruitier,Cerisier,0,0,0,0,0,0,0
+Province Sud,Sud Est,Arbre fruitier,Citron et lime,0,1,14,8,5,0,28
+Province Sud,Sud Est,Arbre fruitier,Corossol,1,0,3,1,1,0,6
+Province Sud,Sud Est,Arbre fruitier,Cœur de bœuf,0,0,0,0,0,0,0
+Province Sud,Sud Est,Arbre fruitier,Fruit à pain,0,0,3,1,1,0,5
+Province Sud,Sud Est,Arbre fruitier,Goyave,0,0,1,2,1,0,4
+Province Sud,Sud Est,Arbre fruitier,Jacques,1,0,4,3,1,0,9
+Province Sud,Sud Est,Arbre fruitier,Jamelonier,0,0,0,0,0,0,0
+Province Sud,Sud Est,Arbre fruitier,Kaki,0,0,0,0,0,0,0
+Province Sud,Sud Est,Arbre fruitier,Litchi,0,0,4,1,1,0,6
+Province Sud,Sud Est,Arbre fruitier,Mandarine,0,0,14,8,1,0,23
+Province Sud,Sud Est,Arbre fruitier,Mangue,27,1,57,38,27,0,150
+Province Sud,Sud Est,Arbre fruitier,Murier,0,0,0,0,0,0,0
+Province Sud,Sud Est,Arbre fruitier,Orange,0,0,9,4,2,0,15
+Province Sud,Sud Est,Arbre fruitier,Pamplemousse,0,0,5,2,4,0,11
+Province Sud,Sud Est,Arbre fruitier,Papaye,74,1,30,9,16,0,130
+Province Sud,Sud Est,Arbre fruitier,Pomme cannelle,0,0,1,0,0,0,1
+Province Sud,Sud Est,Arbre fruitier,Pomme citerne,0,0,1,1,0,0,2
+Province Sud,Sud Est,Arbre fruitier,Pomme kanak,0,0,2,1,1,0,4
+Province Sud,Sud Est,Arbre fruitier,Pomme rose,0,0,0,0,0,0,0
+Province Sud,Sud Est,Arbre fruitier,Pêche,0,0,1,1,0,0,2
+Province Sud,Sud Est,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province Sud,Sud Est,Banane dessert,Banane dessert,2,30,95,31,14,0,172
+Province Sud,Sud Est,Banane poingo,Banane poingo,0,13,24,8,3,0,48
+Province Sud,Sud Est,Cocotier,Cocotier,295,2,51,24,35,0,407
+Province Sud,Sud Est,Cultures spéciales,Autre culture spéciale (à préciser),0,0,0,0,0,0,0
+Province Sud,Sud Est,Cultures spéciales,Canne à sucre,2,2,20,4,2,0,30
+Province Sud,Sud Est,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province Sud,Sud Est,Cultures spéciales,Vanille,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Ambrevade,0,0,1,0,0,0,1
+Province Sud,Sud Est,Légume & fruit plein champ,Ananas,0,0,9,5,2,0,16
+Province Sud,Sud Est,Légume & fruit plein champ,Aubergine,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Autres légumes (à préciser),0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Brèdes,0,0,1,0,0,0,1
+Province Sud,Sud Est,Légume & fruit plein champ,Carotte,0,0,2,1,0,0,3
+Province Sud,Sud Est,Légume & fruit plein champ,Chou de chine,0,0,1,1,0,0,2
+Province Sud,Sud Est,Légume & fruit plein champ,Chou kanak,0,0,9,1,0,0,10
+Province Sud,Sud Est,Légume & fruit plein champ,Chou vert,1,1,6,2,1,0,11
+Province Sud,Sud Est,Légume & fruit plein champ,Chouchoute,7,12,24,8,0,0,51
+Province Sud,Sud Est,Légume & fruit plein champ,Choux de montagne (iles),0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Citrouille,5,5,18,6,0,0,34
+Province Sud,Sud Est,Légume & fruit plein champ,Concombre,0,0,2,0,0,0,2
+Province Sud,Sud Est,Légume & fruit plein champ,Courgette,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Echalote,0,0,0,0,0,1,1
+Province Sud,Sud Est,Légume & fruit plein champ,Fines herbes,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Fraise,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Framboisier,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Haricot toutes sortes,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Haricot vert,0,0,2,0,0,0,2
+Province Sud,Sud Est,Légume & fruit plein champ,Maïs doux,0,0,3,0,0,0,3
+Province Sud,Sud Est,Légume & fruit plein champ,Melon,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Navet,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Oignon sec,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Oignon vert,0,0,1,0,0,0,1
+Province Sud,Sud Est,Légume & fruit plein champ,Pastèque,0,0,4,1,1,0,6
+Province Sud,Sud Est,Légume & fruit plein champ,Persil,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Poireau,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Poivron,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Pomme de terre,0,1,4,1,1,0,7
+Province Sud,Sud Est,Légume & fruit plein champ,Pomme liane,0,0,2,0,0,0,2
+Province Sud,Sud Est,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Salade,0,1,3,2,11,0,17
+Province Sud,Sud Est,Légume & fruit plein champ,Squash,0,0,0,0,0,0,0
+Province Sud,Sud Est,Légume & fruit plein champ,Tomate,0,1,6,2,7,0,16
+Province Sud,Sud Est,Légume & fruit plein champ,Tomate cerise,0,0,0,0,0,0,0
+Province Sud,Sud Est,Produits transformés,Autre produit d'origine végétale transformé (à préciser),0,0,0,0,0,0,0
+Province Sud,Sud Est,Tubercule,Igname de saison,15,203,162,40,16,236,672
+Province Sud,Sud Est,Tubercule,Manioc,34,84,154,41,12,0,325
+Province Sud,Sud Est,Tubercule,Patate douce,0,4,26,7,5,0,42
+Province Sud,Sud Est,Tubercule,Taro bourbon,0,0,0,0,0,0,0
+Province Sud,Sud Est,Tubercule,Taro d'eau,1,4,8,2,0,1,16
+Province Sud,Sud Est,Tubercule,Taro de montagne,0,2,7,2,0,0,11
+Province des Îles,Ouvéa,Arbre fruitier,Autres fruits (à préciser),0,0,1,0,0,0,1
+Province des Îles,Ouvéa,Arbre fruitier,Avocat,1,0,3,4,2,0,10
+Province des Îles,Ouvéa,Arbre fruitier,Cerisier,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Arbre fruitier,Citron et lime,0,0,5,5,2,0,12
+Province des Îles,Ouvéa,Arbre fruitier,Combava,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Arbre fruitier,Corossol,0,0,1,0,1,0,2
+Province des Îles,Ouvéa,Arbre fruitier,Cœur de bœuf,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Arbre fruitier,Fruit à pain,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Arbre fruitier,Goyave,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Arbre fruitier,Jacques,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Arbre fruitier,Jamelonier,0,0,1,0,1,0,2
+Province des Îles,Ouvéa,Arbre fruitier,Litchi,0,0,2,0,0,0,2
+Province des Îles,Ouvéa,Arbre fruitier,Mandarine,0,0,5,3,3,0,11
+Province des Îles,Ouvéa,Arbre fruitier,Mangue,6,0,10,6,6,0,28
+Province des Îles,Ouvéa,Arbre fruitier,Murier,0,0,0,0,1,0,1
+Province des Îles,Ouvéa,Arbre fruitier,Orange,0,0,1,1,1,0,3
+Province des Îles,Ouvéa,Arbre fruitier,Pamplemousse,0,0,2,1,1,0,4
+Province des Îles,Ouvéa,Arbre fruitier,Papaye,70,2,38,5,10,0,125
+Province des Îles,Ouvéa,Arbre fruitier,Pomme cannelle,0,0,4,2,2,0,8
+Province des Îles,Ouvéa,Arbre fruitier,Pomme citerne,0,0,0,1,0,0,1
+Province des Îles,Ouvéa,Arbre fruitier,Pomme kanak,0,0,1,0,1,0,2
+Province des Îles,Ouvéa,Arbre fruitier,Pêche,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Banane dessert,Banane dessert,0,44,87,46,26,0,203
+Province des Îles,Ouvéa,Banane poingo,Banane poingo,0,5,6,3,6,0,20
+Province des Îles,Ouvéa,Cocotier,Cocotier,480,26,162,79,47,9,803
+Province des Îles,Ouvéa,Cultures spéciales,Canne à sucre,0,3,15,3,1,0,22
+Province des Îles,Ouvéa,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Cultures spéciales,Plantes médicinale de plein champ,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Cultures spéciales,Vanille,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Ambrevade,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Ananas,0,0,1,0,0,0,1
+Province des Îles,Ouvéa,Légume & fruit plein champ,Aubergine,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Autres légumes (à préciser),0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Brèdes,0,0,1,0,0,0,1
+Province des Îles,Ouvéa,Légume & fruit plein champ,Carotte,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Chou de chine,0,0,2,0,1,0,3
+Province des Îles,Ouvéa,Légume & fruit plein champ,Chou kanak,0,1,4,1,0,0,6
+Province des Îles,Ouvéa,Légume & fruit plein champ,Chou rouge,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Chou vert,0,0,1,0,0,0,1
+Province des Îles,Ouvéa,Légume & fruit plein champ,Chouchoute,0,1,1,0,0,0,2
+Province des Îles,Ouvéa,Légume & fruit plein champ,Choux de montagne (iles),0,0,2,0,2,0,4
+Province des Îles,Ouvéa,Légume & fruit plein champ,Citrouille,1,3,4,3,0,0,11
+Province des Îles,Ouvéa,Légume & fruit plein champ,Concombre,0,0,1,0,0,0,1
+Province des Îles,Ouvéa,Légume & fruit plein champ,Courgette,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Céleri,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Echalote,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Fines herbes,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Fraise,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Haricot toutes sortes,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Haricot vert,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Maïs doux,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Melon,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Navet,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Oignon vert,0,0,1,0,0,0,1
+Province des Îles,Ouvéa,Légume & fruit plein champ,Pastèque,0,0,3,1,1,0,5
+Province des Îles,Ouvéa,Légume & fruit plein champ,Persil,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Poireau,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Poivron,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Pomme de terre,0,0,1,0,0,0,1
+Province des Îles,Ouvéa,Légume & fruit plein champ,Pomme liane,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Salade,0,0,1,0,0,0,1
+Province des Îles,Ouvéa,Légume & fruit plein champ,Squash,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Légume & fruit plein champ,Tomate,0,0,2,1,0,0,3
+Province des Îles,Ouvéa,Légume & fruit plein champ,Tomate cerise,0,0,0,0,0,0,0
+Province des Îles,Ouvéa,Tubercule,Igname de saison,0,84,67,21,20,73,265
+Province des Îles,Ouvéa,Tubercule,Manioc,2,28,53,9,2,0,94
+Province des Îles,Ouvéa,Tubercule,Patate douce,0,8,19,8,3,0,38
+Province des Îles,Ouvéa,Tubercule,Taro d'eau,2,43,45,16,1,0,107
+Province des Îles,Ouvéa,Tubercule,Taro de montagne,0,0,1,0,0,0,1
+Province des Îles,Lifou,Arbre fruitier,Autres fruits (à préciser),0,0,0,1,0,0,1
+Province des Îles,Lifou,Arbre fruitier,Avocat,8,3,50,54,20,0,135
+Province des Îles,Lifou,Arbre fruitier,Carambole,0,0,0,0,0,0,0
+Province des Îles,Lifou,Arbre fruitier,Cerisier,0,0,0,0,0,0,0
+Province des Îles,Lifou,Arbre fruitier,Citron et lime,2,3,18,17,10,0,50
+Province des Îles,Lifou,Arbre fruitier,Corossol,1,0,10,5,3,0,19
+Province des Îles,Lifou,Arbre fruitier,Cœur de bœuf,0,0,1,1,1,0,3
+Province des Îles,Lifou,Arbre fruitier,Fruit à pain,0,0,2,1,2,0,5
+Province des Îles,Lifou,Arbre fruitier,Goyave,2,0,2,0,1,0,5
+Province des Îles,Lifou,Arbre fruitier,Jacques,0,0,4,0,1,0,5
+Province des Îles,Lifou,Arbre fruitier,Jamelonier,0,0,0,1,2,0,3
+Province des Îles,Lifou,Arbre fruitier,Litchi,0,0,3,3,0,0,6
+Province des Îles,Lifou,Arbre fruitier,Mandarine,0,0,15,9,9,0,33
+Province des Îles,Lifou,Arbre fruitier,Mangue,29,2,44,33,34,1,143
+Province des Îles,Lifou,Arbre fruitier,Murier,0,0,0,0,0,0,0
+Province des Îles,Lifou,Arbre fruitier,Orange,0,0,2,3,2,0,7
+Province des Îles,Lifou,Arbre fruitier,Pamplemousse,0,0,29,24,15,0,68
+Province des Îles,Lifou,Arbre fruitier,Papaye,108,8,90,21,58,0,285
+Province des Îles,Lifou,Arbre fruitier,Pomme cannelle,0,0,7,1,4,0,12
+Province des Îles,Lifou,Arbre fruitier,Pomme citerne,0,0,1,0,1,0,2
+Province des Îles,Lifou,Arbre fruitier,Pomme kanak,0,0,2,1,2,0,5
+Province des Îles,Lifou,Arbre fruitier,Pomme rose,0,0,0,0,0,0,0
+Province des Îles,Lifou,Arbre fruitier,Pêche,0,0,2,1,0,0,3
+Province des Îles,Lifou,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province des Îles,Lifou,Banane dessert,Banane dessert,0,44,131,57,38,0,270
+Province des Îles,Lifou,Banane poingo,Banane poingo,0,19,29,12,8,0,68
+Province des Îles,Lifou,Cocotier,Cocotier,758,26,178,62,102,1,1127
+Province des Îles,Lifou,Cultures spéciales,Autre culture spéciale (à préciser),0,0,0,0,0,0,0
+Province des Îles,Lifou,Cultures spéciales,Café arabica,0,0,0,0,0,0,0
+Province des Îles,Lifou,Cultures spéciales,Canne à sucre,0,4,29,10,2,0,45
+Province des Îles,Lifou,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province des Îles,Lifou,Cultures spéciales,Vanille,0,0,1,0,0,0,1
+Province des Îles,Lifou,Légume & fruit plein champ,Ambrevade,0,3,11,3,2,1,20
+Province des Îles,Lifou,Légume & fruit plein champ,Ananas,0,0,5,4,1,0,10
+Province des Îles,Lifou,Légume & fruit plein champ,Aubergine,0,0,1,0,1,0,2
+Province des Îles,Lifou,Légume & fruit plein champ,Autre légume de plein champ (à préciser),0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Autres légumes (à préciser),0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Brèdes,0,1,5,1,0,0,7
+Province des Îles,Lifou,Légume & fruit plein champ,Carotte,0,0,2,1,0,0,3
+Province des Îles,Lifou,Légume & fruit plein champ,Chou de chine,0,2,9,4,2,0,17
+Province des Îles,Lifou,Légume & fruit plein champ,Chou kanak,0,8,31,9,1,0,49
+Province des Îles,Lifou,Légume & fruit plein champ,Chou rouge,0,0,2,0,0,0,2
+Province des Îles,Lifou,Légume & fruit plein champ,Chou vert,0,12,38,42,10,0,102
+Province des Îles,Lifou,Légume & fruit plein champ,Chouchoute,7,5,17,11,4,1,45
+Province des Îles,Lifou,Légume & fruit plein champ,Choux de montagne (iles),0,2,4,2,0,0,8
+Province des Îles,Lifou,Légume & fruit plein champ,Citrouille,7,8,26,21,2,0,64
+Province des Îles,Lifou,Légume & fruit plein champ,Concombre,0,4,19,6,1,0,30
+Province des Îles,Lifou,Légume & fruit plein champ,Courgette,0,0,2,0,0,0,2
+Province des Îles,Lifou,Légume & fruit plein champ,Céleri,0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Echalote,0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Fines herbes,0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Fraise,0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Framboisier,0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Haricot toutes sortes,0,1,5,2,1,0,9
+Province des Îles,Lifou,Légume & fruit plein champ,Haricot vert,0,1,12,5,1,0,19
+Province des Îles,Lifou,Légume & fruit plein champ,Maïs doux,2,5,14,4,2,2,29
+Province des Îles,Lifou,Légume & fruit plein champ,Melon,0,0,0,1,0,0,1
+Province des Îles,Lifou,Légume & fruit plein champ,Navet,0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Oignon sec,0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Oignon vert,0,2,5,3,3,0,13
+Province des Îles,Lifou,Légume & fruit plein champ,Pastèque,2,3,27,18,14,0,64
+Province des Îles,Lifou,Légume & fruit plein champ,Persil,0,0,1,0,0,0,1
+Province des Îles,Lifou,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Poireau,0,0,1,0,0,0,1
+Province des Îles,Lifou,Légume & fruit plein champ,Poivron,0,0,1,0,0,0,1
+Province des Îles,Lifou,Légume & fruit plein champ,Pomme de terre,0,7,17,6,1,0,31
+Province des Îles,Lifou,Légume & fruit plein champ,Pomme liane,0,1,6,3,1,0,11
+Province des Îles,Lifou,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province des Îles,Lifou,Légume & fruit plein champ,Salade,0,7,13,8,2,0,30
+Province des Îles,Lifou,Légume & fruit plein champ,Tomate,0,15,23,11,8,0,57
+Province des Îles,Lifou,Légume & fruit plein champ,Tomate cerise,0,0,1,0,0,0,1
+Province des Îles,Lifou,Pépinière et ornement,Pépinière sous serre ou abri,0,0,0,0,0,0,0
+Province des Îles,Lifou,Tubercule,Autre tubercule tropical (à préciser),0,0,0,0,0,0,0
+Province des Îles,Lifou,Tubercule,Igname de saison,9,306,238,73,41,285,952
+Province des Îles,Lifou,Tubercule,Manioc,11,30,71,32,10,0,154
+Province des Îles,Lifou,Tubercule,Patate douce,2,56,84,30,20,3,195
+Province des Îles,Lifou,Tubercule,Taro bourbon,0,0,0,0,0,0,0
+Province des Îles,Lifou,Tubercule,Taro d'eau,0,3,6,2,0,2,13
+Province des Îles,Lifou,Tubercule,Taro de montagne,0,4,12,5,1,3,25
+Province des Îles,Maré,Arbre fruitier,Autres fruits (à préciser),0,0,0,0,0,0,0
+Province des Îles,Maré,Arbre fruitier,Avocat,11,0,42,26,25,0,104
+Province des Îles,Maré,Arbre fruitier,Carambole,0,0,0,0,0,0,0
+Province des Îles,Maré,Arbre fruitier,Cerisier,0,0,0,0,0,0,0
+Province des Îles,Maré,Arbre fruitier,Citron et lime,0,1,13,7,8,0,29
+Province des Îles,Maré,Arbre fruitier,Corossol,0,0,2,1,1,0,4
+Province des Îles,Maré,Arbre fruitier,Cœur de bœuf,0,0,1,0,0,0,1
+Province des Îles,Maré,Arbre fruitier,Fruit à pain,0,0,1,1,1,0,3
+Province des Îles,Maré,Arbre fruitier,Goyave,12,0,1,0,0,0,13
+Province des Îles,Maré,Arbre fruitier,Jacques,0,0,3,1,1,0,5
+Province des Îles,Maré,Arbre fruitier,Jamelonier,0,0,2,0,0,0,2
+Province des Îles,Maré,Arbre fruitier,Kaki,0,0,0,0,0,0,0
+Province des Îles,Maré,Arbre fruitier,Litchi,0,0,4,1,1,0,6
+Province des Îles,Maré,Arbre fruitier,Mandarine,0,0,13,12,10,0,35
+Province des Îles,Maré,Arbre fruitier,Mangue,3,0,12,19,15,0,49
+Province des Îles,Maré,Arbre fruitier,Murier,0,0,0,0,0,0,0
+Province des Îles,Maré,Arbre fruitier,Orange,0,0,5,3,1,0,9
+Province des Îles,Maré,Arbre fruitier,Pamplemousse,0,0,6,4,5,0,15
+Province des Îles,Maré,Arbre fruitier,Papaye,114,3,76,42,32,0,267
+Province des Îles,Maré,Arbre fruitier,Pomme cannelle,0,0,5,2,6,0,13
+Province des Îles,Maré,Arbre fruitier,Pomme citerne,0,0,1,0,0,0,1
+Province des Îles,Maré,Arbre fruitier,Pomme kanak,0,0,2,1,1,0,4
+Province des Îles,Maré,Arbre fruitier,Pêche,0,0,2,0,1,0,3
+Province des Îles,Maré,Arbre fruitier,Tamarin,0,0,0,0,0,0,0
+Province des Îles,Maré,Banane dessert,Banane dessert,0,18,83,36,20,0,157
+Province des Îles,Maré,Banane poingo,Banane poingo,0,9,23,8,1,0,41
+Province des Îles,Maré,Cocotier,Cocotier,312,3,80,43,48,0,486
+Province des Îles,Maré,Cultures spéciales,Café arabica,0,0,0,0,0,0,0
+Province des Îles,Maré,Cultures spéciales,Canne à sucre,0,1,19,8,0,0,28
+Province des Îles,Maré,Cultures spéciales,Citronnelle,0,0,0,0,0,0,0
+Province des Îles,Maré,Cultures spéciales,Condiment et épices divers,0,0,0,0,0,0,0
+Province des Îles,Maré,Cultures spéciales,Vanille,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Ambrevade,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Ananas,0,1,28,46,14,0,89
+Province des Îles,Maré,Légume & fruit plein champ,Aubergine,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Autres légumes (à préciser),0,0,1,0,0,0,1
+Province des Îles,Maré,Légume & fruit plein champ,Brèdes,0,0,2,0,0,0,2
+Province des Îles,Maré,Légume & fruit plein champ,Carotte,0,1,3,1,0,0,5
+Province des Îles,Maré,Légume & fruit plein champ,Chou de chine,0,1,2,1,0,0,4
+Province des Îles,Maré,Légume & fruit plein champ,Chou kanak,0,3,15,4,0,0,22
+Province des Îles,Maré,Légume & fruit plein champ,Chou rouge,0,0,1,0,0,0,1
+Province des Îles,Maré,Légume & fruit plein champ,Chou vert,0,8,16,4,4,0,32
+Province des Îles,Maré,Légume & fruit plein champ,Chouchoute,3,5,21,5,3,1,38
+Province des Îles,Maré,Légume & fruit plein champ,Choux de montagne (iles),0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Citrouille,1,6,13,4,1,0,25
+Province des Îles,Maré,Légume & fruit plein champ,Concombre,0,5,7,1,0,0,13
+Province des Îles,Maré,Légume & fruit plein champ,Courgette,0,0,1,0,0,0,1
+Province des Îles,Maré,Légume & fruit plein champ,Céleri,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Echalote,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Fines herbes,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Haricot toutes sortes,0,1,3,1,0,0,5
+Province des Îles,Maré,Légume & fruit plein champ,Haricot vert,0,1,5,3,0,0,9
+Province des Îles,Maré,Légume & fruit plein champ,Maïs doux,0,1,6,2,2,0,11
+Province des Îles,Maré,Légume & fruit plein champ,Melon,0,0,1,0,0,0,1
+Province des Îles,Maré,Légume & fruit plein champ,Navet,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Oignon vert,0,0,2,0,0,0,2
+Province des Îles,Maré,Légume & fruit plein champ,Pastèque,0,0,11,4,0,0,15
+Province des Îles,Maré,Légume & fruit plein champ,Persil,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Piment,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Poireau,0,0,2,0,0,0,2
+Province des Îles,Maré,Légume & fruit plein champ,Poivron,0,0,1,0,0,0,1
+Province des Îles,Maré,Légume & fruit plein champ,Pomme de terre,0,0,4,0,0,0,4
+Province des Îles,Maré,Légume & fruit plein champ,Pomme liane,0,0,3,2,2,0,7
+Province des Îles,Maré,Légume & fruit plein champ,Radis,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Salade,1,3,9,2,1,0,16
+Province des Îles,Maré,Légume & fruit plein champ,Squash,0,0,0,0,0,0,0
+Province des Îles,Maré,Légume & fruit plein champ,Tomate,4,3,16,5,4,0,32
+Province des Îles,Maré,Légume & fruit plein champ,Tomate cerise,0,0,3,0,0,0,3
+Province des Îles,Maré,Tubercule,Igname de saison,6,317,251,51,48,418,1091
+Province des Îles,Maré,Tubercule,Manioc,64,10,70,16,22,2,184
+Province des Îles,Maré,Tubercule,Patate douce,3,24,64,23,10,1,125
+Province des Îles,Maré,Tubercule,Taro bourbon,0,0,0,0,0,0,0
+Province des Îles,Maré,Tubercule,Taro d'eau,0,6,24,7,1,1,39
+Province des Îles,Maré,Tubercule,Taro de montagne,0,12,61,41,5,3,122
+Province Nord,Nord Ouest,Productions végétales totales,Arbre fruitier,3,5,126,80,108,1,323
+Province Nord,Nord Ouest,Productions végétales totales,Banane dessert,4,100,131,59,61,0,355
+Province Nord,Nord Ouest,Productions végétales totales,Banane poingo,0,57,48,17,10,1,133
+Province Nord,Nord Ouest,Productions végétales totales,Cocotier,7,10,32,9,18,2,78
+Province Nord,Nord Ouest,Productions végétales totales,Cultures spéciales,0,9,28,9,12,0,58
+Province Nord,Nord Ouest,Productions végétales totales,Légume & fruit plein champ,0,10,69,38,12,0,129
+Province Nord,Nord Ouest,Productions végétales totales,Pépinière et ornement,0,0,0,0,0,0,0
+Province Nord,Nord Ouest,Productions végétales totales,Tubercule,2,158,204,76,33,85,558
+Province Nord,Grand Nord,Productions végétales totales,Arbre fruitier,43,11,244,158,192,0,648
+Province Nord,Grand Nord,Productions végétales totales,Autre,0,0,0,0,0,0,0
+Province Nord,Grand Nord,Productions végétales totales,Banane dessert,12,190,436,208,258,0,1104
+Province Nord,Grand Nord,Productions végétales totales,Banane poingo,10,100,126,80,46,0,362
+Province Nord,Grand Nord,Productions végétales totales,Cocotier,123,85,108,58,296,2,672
+Province Nord,Grand Nord,Productions végétales totales,Cultures spéciales,2,17,36,22,9,1,87
+Province Nord,Grand Nord,Productions végétales totales,Légume & fruit plein champ,7,30,144,79,53,3,316
+Province Nord,Grand Nord,Productions végétales totales,Tubercule,4,314,504,222,125,208,1377
+Province Nord,Nord Est,Productions végétales totales,Arbre fruitier,32,7,282,133,160,0,614
+Province Nord,Nord Est,Productions végétales totales,Banane dessert,4,250,381,184,121,0,940
+Province Nord,Nord Est,Productions végétales totales,Banane poingo,2,68,85,35,20,0,210
+Province Nord,Nord Est,Productions végétales totales,Cocotier,296,29,206,111,114,1,757
+Province Nord,Nord Est,Productions végétales totales,Cultures spéciales,1,17,74,34,11,0,137
+Province Nord,Nord Est,Productions végétales totales,Légume & fruit plein champ,5,21,129,81,51,1,288
+Province Nord,Nord Est,Productions végétales totales,Pépinière et ornement,0,0,0,0,0,0,0
+Province Nord,Nord Est,Productions végétales totales,Tubercule,1,580,703,233,125,235,1877
+Province Nord,Nord Minier,Productions végétales totales,Arbre fruitier,62,7,212,102,160,1,544
+Province Nord,Nord Minier,Productions végétales totales,Autre,0,0,0,0,0,0,0
+Province Nord,Nord Minier,Productions végétales totales,Banane dessert,5,197,296,109,235,1,843
+Province Nord,Nord Minier,Productions végétales totales,Banane poingo,0,35,62,15,17,0,129
+Province Nord,Nord Minier,Productions végétales totales,Cocotier,129,15,98,46,77,0,365
+Province Nord,Nord Minier,Productions végétales totales,Cultures spéciales,1,5,23,6,3,0,38
+Province Nord,Nord Minier,Productions végétales totales,Légume & fruit plein champ,38,34,179,64,73,2,390
+Province Nord,Nord Minier,Productions végétales totales,Tubercule,15,340,404,106,95,194,1154
+Province Sud,Sud Ouest,Productions végétales totales,Arbre fruitier,49,10,84,41,62,0,246
+Province Sud,Sud Ouest,Productions végétales totales,Banane dessert,1,34,63,21,21,0,140
+Province Sud,Sud Ouest,Productions végétales totales,Banane poingo,0,10,8,5,2,0,25
+Province Sud,Sud Ouest,Productions végétales totales,Cocotier,22,2,19,7,3,0,53
+Province Sud,Sud Ouest,Productions végétales totales,Cultures spéciales,0,1,5,0,1,0,7
+Province Sud,Sud Ouest,Productions végétales totales,Légume & fruit plein champ,0,5,54,20,12,0,91
+Province Sud,Sud Ouest,Productions végétales totales,Tubercule,0,65,99,24,29,48,265
+Province Sud,Grand Nouméa,Productions végétales totales,Arbre fruitier,3,1,57,38,19,0,118
+Province Sud,Grand Nouméa,Productions végétales totales,Banane dessert,0,2,17,5,1,0,25
+Province Sud,Grand Nouméa,Productions végétales totales,Banane poingo,0,0,1,0,0,0,1
+Province Sud,Grand Nouméa,Productions végétales totales,Cocotier,19,2,11,8,3,0,43
+Province Sud,Grand Nouméa,Productions végétales totales,Cultures spéciales,1,0,5,1,0,0,7
+Province Sud,Grand Nouméa,Productions végétales totales,Légume & fruit plein champ,0,2,16,4,2,0,24
+Province Sud,Grand Nouméa,Productions végétales totales,Tubercule,0,16,39,10,6,16,87
+Province Sud,Sud Est,Productions végétales totales,Arbre fruitier,107,3,170,97,68,0,445
+Province Sud,Sud Est,Productions végétales totales,Banane dessert,2,30,95,31,14,0,172
+Province Sud,Sud Est,Productions végétales totales,Banane poingo,0,13,24,8,3,0,48
+Province Sud,Sud Est,Productions végétales totales,Cocotier,295,2,51,24,35,0,407
+Province Sud,Sud Est,Productions végétales totales,Cultures spéciales,2,2,20,4,2,0,30
+Province Sud,Sud Est,Productions végétales totales,Légume & fruit plein champ,13,22,101,30,25,1,192
+Province Sud,Sud Est,Productions végétales totales,Produits transformés,0,0,0,0,0,0,0
+Province Sud,Sud Est,Productions végétales totales,Tubercule,50,297,357,91,34,237,1066
+Province des Îles,Ouvéa,Productions végétales totales,Arbre fruitier,77,3,76,30,30,0,216
+Province des Îles,Ouvéa,Productions végétales totales,Banane dessert,0,44,87,46,26,0,203
+Province des Îles,Ouvéa,Productions végétales totales,Banane poingo,0,5,6,3,6,0,20
+Province des Îles,Ouvéa,Productions végétales totales,Cocotier,480,26,162,79,47,9,803
+Province des Îles,Ouvéa,Productions végétales totales,Cultures spéciales,0,3,15,3,1,0,22
+Province des Îles,Ouvéa,Productions végétales totales,Légume & fruit plein champ,1,5,27,8,4,0,45
+Province des Îles,Ouvéa,Productions végétales totales,Tubercule,4,162,184,54,26,74,504
+Province des Îles,Lifou,Productions végétales totales,Arbre fruitier,151,16,283,177,166,1,794
+Province des Îles,Lifou,Productions végétales totales,Banane dessert,0,44,131,57,38,0,270
+Province des Îles,Lifou,Productions végétales totales,Banane poingo,0,19,29,12,8,0,68
+Province des Îles,Lifou,Productions végétales totales,Cocotier,758,26,178,62,102,1,1127
+Province des Îles,Lifou,Productions végétales totales,Cultures spéciales,0,4,30,10,2,0,46
+Province des Îles,Lifou,Productions végétales totales,Légume & fruit plein champ,20,88,297,165,58,5,633
+Province des Îles,Lifou,Productions végétales totales,Pépinière et ornement,0,0,0,0,0,0,0
+Province des Îles,Lifou,Productions végétales totales,Tubercule,22,400,412,142,72,292,1340
+Province des Îles,Maré,Productions végétales totales,Arbre fruitier,141,4,190,120,109,0,564
+Province des Îles,Maré,Productions végétales totales,Banane dessert,0,18,83,36,20,0,157
+Province des Îles,Maré,Productions végétales totales,Banane poingo,0,9,23,8,1,0,41
+Province des Îles,Maré,Productions végétales totales,Cocotier,312,3,80,43,48,0,486
+Province des Îles,Maré,Productions végétales totales,Cultures spéciales,0,1,19,8,0,0,28
+Province des Îles,Maré,Productions végétales totales,Légume & fruit plein champ,9,39,175,88,33,2,346
+Province des Îles,Maré,Productions végétales totales,Tubercule,74,370,471,138,86,424,1563

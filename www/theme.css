@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave&display=swap');
+                            body {
+        font-family: 'Sedgwick Ave', cursive;
+      }
+      .navbar-nav > li > a {font-family: 'Permanent Marker', cursive;
+      color: #ffc433}
+	  
+
+* {
+        font-family: 'Sedgwick Ave', cursive;
+	  }	  
+	  p {
+        font-family: 'Sedgwick Ave', cursive;
+      color: #ffc433
+	  }  
+        h1 {
+        font-family: 'Sedgwick Ave', cursive;
+      color: #ffc433
+	  }
+	  
+	  h2 {
+        font-family: 'Sedgwick Ave', cursive;
+		
+		
+          }
+		  
+      
+      .shiny-input-container {
+      font-family: 'Sedgwick Ave', cursive;
+      }
+      

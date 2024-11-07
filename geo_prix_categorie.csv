@@ -1,0 +1,646 @@
+variete,annee,categorie
+Abricot,2023,import
+Agrume : Autres,2017,local|import
+Agrume : Autres,2018,local|import
+Agrume : Autres,2019,import|local
+Agrume : Autres,2020,local|import
+Agrume : Autres,2021,local|import
+Agrume : Autres,2022,local|import
+Agrume : Autres,2023,import|local
+Ail,2014,import
+Ail,2017,local|import
+Ail,2018,import
+Ail,2019,import
+Ail,2020,import
+Ail,2021,import
+Ail,2022,import
+Ail,2023,import|local
+Ananas,2013,import
+Ananas,2014,local|import
+Ananas,2017,local|import
+Ananas,2018,local|import
+Ananas,2019,import|local
+Ananas,2020,import|local
+Ananas,2021,import|local
+Ananas,2022,import|local
+Ananas,2023,import|local
+Asperge,2017,import
+Asperge,2018,import
+Asperge,2019,import
+Asperge,2020,import
+Asperge,2021,import
+Asperge,2022,import
+Asperge,2023,import
+Aubergine,2014,local
+Aubergine,2016,local
+Aubergine,2017,local|import
+Aubergine,2018,import|local
+Aubergine,2019,local|import
+Aubergine,2020,import|local
+Aubergine,2021,import|local
+Aubergine,2022,import|local
+Aubergine,2023,local|import
+Avocat,2018,import|local
+Avocat,2019,import|local
+Avocat,2020,import|local
+Avocat,2021,local|import
+Avocat,2022,local|import
+Avocat,2023,local|import
+Banane,2014,local
+Banane,2015,local
+Banane,2017,local
+Banane,2018,import|local
+Banane,2019,local|import
+Banane,2020,local|import
+Banane,2021,import|local
+Banane,2022,local|import
+Banane,2023,local|import
+Banane Poingo,2014,local
+Banane Poingo,2016,local
+Banane Poingo,2017,local
+Banane Poingo,2018,local
+Banane Poingo,2019,import|local
+Banane Poingo,2020,local|import
+Banane Poingo,2021,local|import
+Banane Poingo,2022,local
+Banane Poingo,2023,import|local
+Banane Verte,2018,local
+Banane Verte,2019,local|import
+Banane Verte,2020,local
+Banane Verte,2021,local
+Banane Verte,2022,local
+Banane Verte,2023,local
+Basilic,2017,local
+Basilic,2018,local
+Basilic,2019,local
+Basilic,2020,local
+Basilic,2021,local
+Basilic,2022,local
+Basilic,2023,local
+Betterave,2017,local|import
+Betterave,2018,local|import
+Betterave,2019,import|local
+Betterave,2020,import|local
+Betterave,2021,import|local
+Betterave,2022,local|import
+Betterave,2023,local|import
+Brocoli,2014,import
+Brocoli,2017,local|import
+Brocoli,2018,local|import
+Brocoli,2019,local|import
+Brocoli,2020,local|import
+Brocoli,2021,local|import
+Brocoli,2022,local|import
+Brocoli,2023,import|local
+Carotte,2013,import
+Carotte,2014,local|import
+Carotte,2015,import
+Carotte,2017,import|local
+Carotte,2018,import|local
+Carotte,2019,local|import
+Carotte,2020,local|import
+Carotte,2021,import|local
+Carotte,2022,local|import
+Carotte,2023,import|local
+Cerise,2018,import
+Cerise,2019,import
+Cerise,2020,import
+Cerise,2021,import
+Cerise,2022,import
+Cerise,2023,import
+Champignon,2017,local
+Champignon,2018,local
+Champignon,2019,local
+Champignon,2020,local
+Champignon,2021,local
+Champignon,2022,local
+Champignon,2023,local
+Chou : Autres,2017,import
+Chou : Autres,2018,import|local
+Chou : Autres,2019,import|local
+Chou : Autres,2020,import|local
+Chou : Autres,2021,local|import
+Chou : Autres,2022,import|local
+Chou : Autres,2023,local|import
+Chou De Chine,2014,local|import
+Chou De Chine,2015,local
+Chou De Chine,2017,local|import
+Chou De Chine,2018,local|import
+Chou De Chine,2019,import|local
+Chou De Chine,2020,local|import
+Chou De Chine,2021,local|import
+Chou De Chine,2022,local|import
+Chou De Chine,2023,local|import
+Chou Rouge,2014,local|import
+Chou Rouge,2017,local|import
+Chou Rouge,2018,local|import
+Chou Rouge,2019,import|local
+Chou Rouge,2020,import|local
+Chou Rouge,2021,local|import
+Chou Rouge,2022,local|import
+Chou Rouge,2023,import|local
+Chou Vert,2014,local|import
+Chou Vert,2015,import
+Chou Vert,2016,local
+Chou Vert,2017,local|import
+Chou Vert,2018,local|import
+Chou Vert,2019,local|import
+Chou Vert,2020,local|import
+Chou Vert,2021,local|import
+Chou Vert,2022,local|import
+Chou Vert,2023,local|import
+Chou-Fleur,2014,local|import
+Chou-Fleur,2017,local|import
+Chou-Fleur,2018,local|import
+Chou-Fleur,2019,import|local
+Chou-Fleur,2020,local|import
+Chou-Fleur,2021,local|import
+Chou-Fleur,2022,local|import
+Chou-Fleur,2023,local|import
+Chouchoute,2014,local
+Chouchoute,2017,local
+Chouchoute,2018,local
+Chouchoute,2019,local
+Chouchoute,2020,local
+Chouchoute,2021,local
+Chouchoute,2022,local
+Chouchoute,2023,local
+"Ciboulette, Oignon Vert",2017,local
+"Ciboulette, Oignon Vert",2018,local
+"Ciboulette, Oignon Vert",2019,local
+"Ciboulette, Oignon Vert",2020,local
+"Ciboulette, Oignon Vert",2021,local
+"Ciboulette, Oignon Vert",2022,local
+"Ciboulette, Oignon Vert",2023,local
+"Citron, Lime",2014,local
+"Citron, Lime",2015,local
+"Citron, Lime",2016,local
+"Citron, Lime",2017,local
+"Citron, Lime",2018,import|local
+"Citron, Lime",2019,local|import
+"Citron, Lime",2020,local|import
+"Citron, Lime",2021,local|import
+"Citron, Lime",2022,local|import
+"Citron, Lime",2023,import|local
+Citrouille,2014,local|import
+Citrouille,2015,local
+Citrouille,2016,local
+Citrouille,2017,local|import
+Citrouille,2018,local|import
+Citrouille,2019,local|import
+Citrouille,2020,local|import
+Citrouille,2021,local|import
+Citrouille,2022,local|import
+Citrouille,2023,import|local
+Combawa,2017,local
+Combawa,2018,local
+Combawa,2019,local
+Combawa,2020,local
+Combawa,2021,local
+Combawa,2022,local
+Combawa,2023,local
+Concombre,2014,import|local
+Concombre,2016,local
+Concombre,2017,local|import
+Concombre,2018,import|local
+Concombre,2019,import|local
+Concombre,2020,import|local
+Concombre,2021,import|local
+Concombre,2022,import|local
+Concombre,2023,import|local
+Corossol,2018,import
+Corossol,2019,import
+Corossol,2020,import
+Corossol,2021,import
+Corossol,2022,import
+Corossol,2023,import
+Courgette,2014,import|local
+Courgette,2017,local|import
+Courgette,2018,import|local
+Courgette,2019,import|local
+Courgette,2020,local|import
+Courgette,2021,import|local
+Courgette,2022,import|local
+Courgette,2023,local|import
+Cresson,2017,local
+Cresson,2018,local
+Cresson,2019,local
+Cresson,2020,local
+Cresson,2021,local
+Cresson,2022,local
+Cresson,2023,local|import
+Céleri,2014,local|import
+Céleri,2017,local|import
+Céleri,2018,local|import
+Céleri,2019,import|local
+Céleri,2020,local|import
+Céleri,2021,local|import
+Céleri,2022,local|import
+Céleri,2023,local|import
+Endive,2014,import
+Endive,2017,local|import
+Endive,2018,local|import
+Endive,2019,import|local
+Endive,2020,local|import
+Endive,2021,local|import
+Endive,2022,local|import
+Endive,2023,import|local
+Fraise,2013,import
+Fraise,2014,import
+Fraise,2018,local
+Fraise,2019,local
+Fraise,2021,local
+Fraise,2023,local|import
+Framboise,2013,import
+Framboise,2014,import
+Framboise,2018,import
+Framboise,2019,import
+Framboise,2020,import
+Framboise,2021,import
+Framboise,2022,import
+Framboise,2023,import
+"Fruit De La Passion, Pomme-Liane",2017,local
+"Fruit De La Passion, Pomme-Liane",2018,local
+"Fruit De La Passion, Pomme-Liane",2019,local
+"Fruit De La Passion, Pomme-Liane",2020,local
+"Fruit De La Passion, Pomme-Liane",2021,local
+"Fruit De La Passion, Pomme-Liane",2022,local|import
+"Fruit De La Passion, Pomme-Liane",2023,import|local
+"Fruit Du Dragon, Pitaya",2014,local|import
+"Fruit Du Dragon, Pitaya",2017,local
+"Fruit Du Dragon, Pitaya",2018,local|import
+"Fruit Du Dragon, Pitaya",2019,local|import
+"Fruit Du Dragon, Pitaya",2020,local|import
+"Fruit Du Dragon, Pitaya",2021,local|import
+"Fruit Du Dragon, Pitaya",2022,import|local
+"Fruit Du Dragon, Pitaya",2023,local|import
+Fruit Exotique : Autres,2013,import
+Fruit Exotique : Autres,2014,import|local
+Fruit Exotique : Autres,2017,local
+Fruit Exotique : Autres,2018,local
+Fruit Exotique : Autres,2019,local
+Fruit Exotique : Autres,2020,local
+Fruit Exotique : Autres,2021,local|import
+Fruit Exotique : Autres,2022,local
+Fruit Exotique : Autres,2023,local|import
+Fruit Frais : Autres,2017,import
+Fruit Frais : Autres,2018,import
+Fruit Frais : Autres,2019,import
+Fruit Frais : Autres,2020,import
+Fruit Frais : Autres,2021,import
+Fruit Frais : Autres,2022,import
+Gingembre,2014,import|local
+Gingembre,2017,import|local
+Gingembre,2018,import|local
+Gingembre,2019,import|local
+Gingembre,2020,import
+Gingembre,2021,import
+Gingembre,2022,import
+Gingembre,2023,local|import
+Haricot Vert,2014,local|import
+Haricot Vert,2017,import|local
+Haricot Vert,2018,import|local
+Haricot Vert,2019,import|local
+Haricot Vert,2020,local|import
+Haricot Vert,2021,import|local
+Haricot Vert,2022,local|import
+Haricot Vert,2023,import|local
+Herbe Aromatique : Autres,2017,local
+Herbe Aromatique : Autres,2018,local
+Herbe Aromatique : Autres,2019,local
+Herbe Aromatique : Autres,2020,local
+Herbe Aromatique : Autres,2021,local
+Herbe Aromatique : Autres,2022,local
+Herbe Aromatique : Autres,2023,local
+Igname,2014,local
+Igname,2016,local
+Igname,2017,local
+Igname,2018,local
+Igname,2019,local
+Igname,2020,local
+Igname,2021,local
+Igname,2022,local
+Igname,2023,local
+Kiwi,2014,import
+Kiwi,2017,import
+Kiwi,2018,import
+Kiwi,2019,import
+Kiwi,2020,import
+Kiwi,2021,import
+Kiwi,2022,import
+Kiwi,2023,import
+Letchi,2017,local
+Letchi,2018,local
+Letchi,2019,local
+Letchi,2020,local
+Letchi,2021,local
+Letchi,2022,local
+Letchi,2023,import|local
+Légume Frais : Autres,2017,import
+Légume Frais : Autres,2018,import
+Légume Frais : Autres,2019,import
+Légume Frais : Autres,2020,import
+Légume Frais : Autres,2021,import
+Légume Frais : Autres,2022,import
+Légume Frais : Autres,2023,import
+Légume Vert : Autres,2017,import|local
+Légume Vert : Autres,2018,import|local
+Légume Vert : Autres,2019,import|local
+Légume Vert : Autres,2020,import|local
+Légume Vert : Autres,2021,local|import
+Légume Vert : Autres,2022,local|import
+Légume Vert : Autres,2023,local|import
+"Mandarine, Clémentine",2014,local|import
+"Mandarine, Clémentine",2016,local
+"Mandarine, Clémentine",2017,import|local
+"Mandarine, Clémentine",2018,import|local
+"Mandarine, Clémentine",2019,import|local
+"Mandarine, Clémentine",2020,local|import
+"Mandarine, Clémentine",2021,local|import
+"Mandarine, Clémentine",2022,local|import
+"Mandarine, Clémentine",2023,local|import
+Mangue,2014,local
+Mangue,2017,local
+Mangue,2018,local
+Mangue,2019,local
+Mangue,2020,local
+Mangue,2021,local
+Mangue,2022,local
+Mangue,2023,local|import
+Manioc,2017,local
+Manioc,2018,local
+Manioc,2019,local
+Manioc,2020,local
+Manioc,2021,local
+Manioc,2022,local
+Manioc,2023,local
+Maïs,2014,local
+Maïs,2017,local
+Maïs,2018,local
+Maïs,2019,local
+Maïs,2020,local|import
+Maïs,2021,local
+Maïs,2022,local
+Maïs,2023,local
+Melon,2013,import
+Melon,2014,local|import
+Melon,2016,local
+Melon,2017,import|local
+Melon,2018,import|local
+Melon,2019,import|local
+Melon,2020,import|local
+Melon,2021,local|import
+Melon,2022,local|import
+Melon,2023,import|local
+Menthe,2017,local
+Menthe,2018,local
+Menthe,2019,local
+Menthe,2020,local
+Menthe,2021,local
+Menthe,2022,local
+Menthe,2023,local
+Navet,2014,local
+Navet,2016,local
+Navet,2017,local
+Navet,2018,local
+Navet,2019,local
+Navet,2020,local
+Navet,2021,local
+Navet,2022,local
+Navet,2023,local
+Nectarine,2013,import
+Nectarine,2014,import
+Nectarine,2017,import
+Nectarine,2018,import
+Nectarine,2019,import
+Nectarine,2020,import
+Nectarine,2021,import
+Nectarine,2022,import
+Nectarine,2023,import
+Oignon Blanc,2014,import
+Oignon Blanc,2017,local|import
+Oignon Blanc,2018,import|local
+Oignon Blanc,2019,import|local
+Oignon Blanc,2020,local|import
+Oignon Blanc,2021,local|import
+Oignon Blanc,2022,import|local
+Oignon Blanc,2023,local|import
+Oignon Jaune,2013,local|import
+Oignon Jaune,2014,import|local
+Oignon Jaune,2015,import
+Oignon Jaune,2017,import|local
+Oignon Jaune,2018,import|local
+Oignon Jaune,2019,local|import
+Oignon Jaune,2020,import|local
+Oignon Jaune,2021,import|local
+Oignon Jaune,2022,import|local
+Oignon Jaune,2023,import|local
+Oignon Rouge,2017,local|import
+Oignon Rouge,2018,local|import
+Oignon Rouge,2019,import|local
+Oignon Rouge,2020,local|import
+Oignon Rouge,2021,local|import
+Oignon Rouge,2022,local|import
+Oignon Rouge,2023,local|import
+Orange,2014,local|import
+Orange,2015,local|import
+Orange,2017,local|import
+Orange,2018,local|import
+Orange,2019,import|local
+Orange,2020,local|import
+Orange,2021,local|import
+Orange,2022,local|import
+Orange,2023,import|local
+"Pamplemousse, Pomélo",2014,local
+"Pamplemousse, Pomélo",2017,local|import
+"Pamplemousse, Pomélo",2018,local|import
+"Pamplemousse, Pomélo",2019,local|import
+"Pamplemousse, Pomélo",2020,local|import
+"Pamplemousse, Pomélo",2021,local|import
+"Pamplemousse, Pomélo",2022,local|import
+"Pamplemousse, Pomélo",2023,import|local
+Papaye,2014,local
+Papaye,2017,local
+Papaye,2018,local|import
+Papaye,2019,local|import
+Papaye,2020,local|import
+Papaye,2021,local|import
+Papaye,2022,local|import
+Papaye,2023,import|local
+Pastèque,2013,import
+Pastèque,2014,local|import
+Pastèque,2015,import
+Pastèque,2016,import
+Pastèque,2017,local|import
+Pastèque,2018,local|import
+Pastèque,2019,local|import
+Pastèque,2020,local|import
+Pastèque,2021,local|import
+Pastèque,2022,local|import
+Pastèque,2023,import|local
+Patate Carry,2014,local
+Patate Carry,2015,local
+Patate Carry,2016,local
+Patate Carry,2017,local
+Patate Carry,2018,local
+Patate Carry,2019,local
+Patate Carry,2020,local
+Patate Carry,2021,local
+Patate Carry,2022,local
+Patate Carry,2023,local
+Patate Douce,2014,local
+Patate Douce,2015,local
+Patate Douce,2016,local
+Patate Douce,2017,local
+Patate Douce,2018,local
+Patate Douce,2019,local
+Patate Douce,2020,local
+Patate Douce,2021,local
+Patate Douce,2022,local
+Patate Douce,2023,local
+Persil,2017,local
+Persil,2018,local
+Persil,2019,local
+Persil,2020,local
+Persil,2021,local
+Persil,2022,local
+Persil,2023,local
+Piment,2017,local
+Piment,2018,local
+Piment,2019,local
+Piment,2020,local
+Piment,2021,local
+Piment,2022,local
+Piment,2023,local
+Poire,2014,import
+Poire,2017,import
+Poire,2018,import
+Poire,2019,import
+Poire,2020,import
+Poire,2021,import
+Poire,2022,import
+Poire,2023,import
+Poireau,2014,import
+Poireau,2017,import|local
+Poireau,2018,local|import
+Poireau,2019,local|import
+Poireau,2020,import|local
+Poireau,2021,import|local
+Poireau,2022,local|import
+Poireau,2023,import|local
+Poivron,2014,import|local
+Poivron,2016,local
+Poivron,2017,local|import
+Poivron,2018,local|import
+Poivron,2019,local|import
+Poivron,2020,local|import
+Poivron,2021,import|local
+Poivron,2022,import|local
+Poivron,2023,import|local
+Pomme,2014,import
+Pomme,2017,import
+Pomme,2018,import
+Pomme,2019,import
+Pomme,2020,import
+Pomme,2021,import
+Pomme,2022,import
+Pomme,2023,import
+Pomme De Terre,2014,local
+Pomme De Terre,2015,local
+Pomme De Terre,2016,local
+Pomme De Terre,2017,import|local
+Pomme De Terre,2018,import|local
+Pomme De Terre,2019,local
+Pomme De Terre,2020,local
+Pomme De Terre,2021,local|import
+Pomme De Terre,2022,import|local
+Pomme De Terre,2023,local|import
+Potimarron,2017,local
+Potimarron,2018,local
+Potimarron,2019,local
+Potimarron,2020,local
+Potimarron,2021,local
+Potimarron,2022,local
+Potimarron,2023,local
+Potiron,2017,local
+Potiron,2018,local
+Potiron,2019,local
+Potiron,2020,local
+Potiron,2021,local
+Potiron,2022,local
+Potiron,2023,local|import
+Prune,2014,import
+Prune,2017,import
+Prune,2018,import
+Prune,2019,import
+Prune,2020,import
+Prune,2021,import
+Prune,2022,import
+Prune,2023,import
+Pâtisson,2023,local
+Pêche,2014,import
+Pêche,2017,import
+Pêche,2018,import
+Pêche,2019,import
+Pêche,2020,import
+Pêche,2021,import
+Pêche,2022,import
+Pêche,2023,import
+Radis,2017,import|local
+Radis,2018,import|local
+Radis,2019,local|import
+Radis,2020,local|import
+Radis,2021,import|local
+Radis,2022,local|import
+Radis,2023,import|local
+Raisin,2014,import
+Raisin,2017,import
+Raisin,2018,import
+Raisin,2019,import
+Raisin,2020,import
+Raisin,2021,import
+Raisin,2022,import
+Raisin,2023,import
+Salade,2014,local|import
+Salade,2015,local
+Salade,2017,local|import
+Salade,2018,local|import
+Salade,2019,local|import
+Salade,2020,local|import
+Salade,2021,import|local
+Salade,2022,import|local
+Salade,2023,import|local
+Squash,2014,local
+Squash,2017,local
+Squash,2018,local|import
+Squash,2019,local|import
+Squash,2020,local|import
+Squash,2021,import|local
+Squash,2022,import|local
+Squash,2023,local|import
+Taro,2014,local
+Taro,2016,local
+Taro,2017,local
+Taro,2018,local
+Taro,2019,local
+Taro,2020,local
+Taro,2021,local
+Taro,2022,local
+Taro,2023,local
+Tomate,2014,import|local
+Tomate,2016,local
+Tomate,2017,import|local
+Tomate,2018,local|import
+Tomate,2019,local|import
+Tomate,2020,import|local
+Tomate,2021,local|import
+Tomate,2022,import|local
+Tomate,2023,import|local
+Échalote,2014,import
+Échalote,2017,import
+Échalote,2018,import
+Échalote,2019,import
+Échalote,2020,import
+Échalote,2021,import
+Échalote,2022,import
+Échalote,2023,import|local

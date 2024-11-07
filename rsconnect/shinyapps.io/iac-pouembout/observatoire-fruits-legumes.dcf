@@ -1,0 +1,13 @@
+name: observatoire-fruits-legumes
+title:
+username: iac-pouembout
+account: iac-pouembout
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10130602
+bundleId: 7919348
+url: https://iac-pouembout.shinyapps.io/observatoire-fruits-legumes/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_process_davar.R
