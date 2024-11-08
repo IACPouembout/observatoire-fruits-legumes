@@ -1,4 +1,4 @@
-
+# Activation des packages
 
 library(tidyverse)
 library(shiny)
@@ -62,19 +62,27 @@ prod_agri_tribu_region <- read_csv(here("prod_agri_tribu_region.csv"))%>%
   select(-c(Perdue,Total))%>%
   adorn_totals("col")%>%
   data.table()
+
+
+
+#fichiers geographiques pour la cartographie des tribus
 regions <- read_sf(here("regions_simp.geojson"))
 pop_total <- read_rds(here("pop_total.rds"))
 pop_total_province <- pop_total%>%select(Province,menages_province)%>%unique()
 
+
 repartition_agri_tribu_region <- read_csv(here("repartition_agri_tribu_region.csv"))
 
 
-
+#fichier pour la carte des destinations pour le total
 map_agri_tribu_region_total <- regions%>%left_join(prod_agri_tribu_region%>%
                                                      filter(`N_group_prod veget`=="Productions végétales totales")%>%
                                                      group_by(N_region)%>%
                                                      summarise_if(is.numeric,sum)
 )
+
+
+#fichier de répartition des ménages agricoles pour la 1ere carte
 percent_agri_tribu_region_total <- regions%>%left_join(repartition_agri_tribu_region%>%
   filter(`N_group_prod veget`=="Productions végétales totales")%>%
   select(-c(`N_group_prod veget`,`N_productions vegetales`))%>%
@@ -85,6 +93,7 @@ percent_agri_tribu_region_total <- regions%>%left_join(repartition_agri_tribu_re
   mutate(percent=(n/menages_region)*100)  )
   
   
+#fichier pomme de terre pour la 1ere carte qui s'affichera
 
 geo_prix_nc1 <- geo_prix_commune1%>%
   filter(variete=="Pomme De Terre" )%>%
@@ -117,6 +126,7 @@ showtext_auto()
 
 
 # Paramètres graphiques
+#titres, styles et logos
 header_img <- div(
   img(src="https://www.agripedia.nc/sites/default/files/2020-07/LOGO%20IAC%20COUL%20RVB.png", height="45px"),
   div(
@@ -133,6 +143,8 @@ header <- header$
   find(".navbar.navbar-static-top")$ 
   append(header_img)$ 
   allTags() #Page d'acceuil
+
+#Définition des onglets
 ui<- dashboardPage( skin = "black",
                     header = header,
                     dashboardSidebar(width = 350,sidebarMenu(
@@ -160,7 +172,8 @@ ui<- dashboardPage( skin = "black",
                tabItems(
                  tabItem(tabName = "presentation",mainPanel(
                    
-                   
+                   #Onglet présentation
+                   #texte et logo
                    fluidPage(
                      h1("Présentation de l'observatoire"),
                      
@@ -190,6 +203,7 @@ ui<- dashboardPage( skin = "black",
                  
                  ),
                  
+                 #onglet production et prix
                  tabItem(
                    tabName = "prix_prod",  
                    fluidPage(h1("Suivi de la production et des prix"),   
@@ -197,7 +211,7 @@ ui<- dashboardPage( skin = "black",
                              
                              
                              
-                             
+                             #1er graphique 
                              fluidRow(
                                column(6,
                                       withSpinner(plotOutput( "evo_prod_plot1",height = "45em"),image ="https://github.com/daattali/shinycssloaders/blob/master/inst/img/custom.gif?raw=true")  )  , 
@@ -205,24 +219,33 @@ ui<- dashboardPage( skin = "black",
                                       box(title = p(style="font-family: 'Sedgwick Ave', cursive;","Type de produit et années"),  
                                           selectInput("prod_type1","Choisissez la famille de produit",
                                                       choices =c("Fruits","Légumes"),selected = "Légumes" ),
+                                          #les catégories changent si on choisit fruit ou légumes
                                           conditionalPanel(condition = "input.prod_type1=='Légumes'",
                                                            selectInput("prod_variete1", "Choisissez le légume", 
                                                                        choices = c(legumes,"Total legumes"),selected ="Tomate")),
                                           conditionalPanel(condition = "input.prod_type1=='Fruits'",
                                                            selectInput("prod_variete1b", "Choisissez le fruit", 
                                                                        choices = c(fruits, "Total fruits (hors vanille)"),selected = "Orange")),
-                                          
+                                          #bouton pour choisir la période
                                           sliderInput(inputId = "prod_annee1",
                                                       label ="Années de suivi",
                                                       min = 2012,
                                                       max = 2023,
                                                       value = c(2020, 2023),sep = ""),
+                                          #bouton pour visualiser les cyclones
                                           checkboxInput(inputId = "cyclones",label = "Afficher les cyclones",value = F),
-                                          
+                                          #sortie texte sur les corrélations prix et produciton
                                           uiOutput("text_prod1"),width = 10 ))),
-                             fluidRow( column(6,withSpinner(plotOutput( "evo_prix_plot1",height = "40em")
+                             
+                             fluidRow( column(6,
+                                              #graphique d'évolution des prix
+                                              #withspinner pour chargement plus fluide
+                                              withSpinner(
+                                                plotOutput("evo_prix_plot1",height = "40em")
                                                             ,image ="https://github.com/daattali/shinycssloaders/blob/master/inst/img/custom.gif?raw=true")),
-                                       column(6,withSpinner(plotOutput("prix_prod_plot1",height = "40em") ,image ="https://github.com/daattali/shinycssloaders/blob/master/inst/img/custom.gif?raw=true"))),
+                                       #graphique à points prix vs production
+                                       column(6,
+                                              withSpinner(plotOutput("prix_prod_plot1",height = "40em") ,image ="https://github.com/daattali/shinycssloaders/blob/master/inst/img/custom.gif?raw=true"))),
                              
                              
                              
@@ -233,11 +256,12 @@ ui<- dashboardPage( skin = "black",
                    )),
                  tabItem(
                    tabName = "map_prix",  
+                   #sortie leaflet du prix par commune
                    fluidPage(h1("Géographie des prix"),   
                              fluidRow(      
                                column(6,
                                       withSpinner(leafletOutput( "nc_prix2",height = "40em") ,image ="https://github.com/daattali/shinycssloaders/blob/master/inst/img/custom.gif?raw=true")),
-                               column(6,
+                               column(6,#bouton de sélection du type de produit
                                       box(title = p(style="font-family: 'Sedgwick Ave', cursive;","Type de produit et années"),  
                                           selectInput("prix_type2","Choisissez la famille de produit",
                                                       choices =c("Fruits","Légumes"),selected = "Légumes" ),
@@ -264,7 +288,7 @@ ui<- dashboardPage( skin = "black",
                                                                                                  
                                                                  choices =c(fruits_legumes_tribu),selected = "Productions végétales totales" ),
                                                                                      
-                                                                                     
+                                                     #modalités conditionnelles selon la famille de produit                                 
                                                      conditionalPanel(condition ='input.agri_tribu_prod=="Productions végétales totales"|
                                                        input.agri_tribu_prod=="Arbre fruitier" |input.agri_tribu_prod=="Cultures spéciales"|
                                                        input.agri_tribu_prod=="Céréales et fourrages"|input.agri_tribu_prod=="Légume & fruit plein champ"|
